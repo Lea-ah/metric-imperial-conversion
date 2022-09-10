@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  background: black;
+}
+
+.container {
+  width: 300px;
+  height: 450px;
+  background-color: #F4F4F4;
+  margin: 0 auto;
+}
+
+#conversion {
+  height: 100px;
+  background-color: #6943FF;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  font-size: 12px;
+}
+
+h3 {
+  font-size: 12px;
+}
+
+#input-number {
+  height: 20px;
+  width: 60px;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 15px;
+  border: 2px solid white;
+}
+
+#convert-btn {
+  background-color: white;
+  color: black;
+}
+
+.measure {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: spave-evenly;
+}
